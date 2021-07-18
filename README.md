@@ -24,4 +24,4 @@ npm run dev
 
 ```
 RESTful API 서버가 필요합니다<br>
-[RESTful-api-server](https://github.com/jayj-fe/RESTful-api-server)
+[RESTful 다운로드](https://github.com/jayj-fe/RESTful-api-server)
